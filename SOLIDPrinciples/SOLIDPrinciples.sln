@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_Single_Responsibility", "01_Single_Responsibility", "{B18D927C-CD02-43E9-8B22-09C315DEC864}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Open_Closed", "02_Open_Closed", "{DD708798-F34D-4891-AE00-F27C0230AC95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_Liskov_Substitution", "03_Liskov_Substitution", "{F0F82937-0AB2-4B5F-B2A9-60AA563F6967}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_Interface_Segregation", "04_Interface_Segregation", "{B3941321-6F32-4CE1-BED1-F193E17300D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_Dependency_Inversion", "05_Dependency_Inversion", "{CC52B527-781C-4F6D-8D59-609B8547BB70}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62976D01-647C-490F-89EB-598B416F7CF4}
+	EndGlobalSection
+EndGlobal
